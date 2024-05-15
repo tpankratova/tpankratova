@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**tpankratova/tpankratova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Throughout my career, I have gained experience in data analysis, project management, and team leadership.
 
-Here are some ideas to get you started:
+For over 5 years, I have learned consumer behavior in retail chains, where my efforts were focused on successful project implementation, team development, and strategic initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I graduated Data Analyst course at Yandex.Practicum to make my knowledge of data analysis stronger.
+
+Now, I am open to new professional challenges.
+
+**Data analysis:**
+`Python` `Pandas` `Matplotlib` `Seaborn` `Plotly` `NumPy` `SciPy` `Math` `Statsmodels` 
+
+**BI system:**
+`Tableau`
+
+**Databases:**
+`PostgreSQL`
