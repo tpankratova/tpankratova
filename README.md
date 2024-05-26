@@ -2,7 +2,7 @@
 
 Throughout my career, I have gained experience in data analysis, project management, and team leadership.
 
-For over 5 years, I studied consumer behavior in retail chains, focusing on successful project implementation, team development, and strategic initiatives.
+For over 7 years, I studied consumer behavior in retail chains, focusing on successful project implementation, team development, and strategic initiatives.
 
 Recently, I graduated from the Data Analyst course at Yandex.Practicum to strengthen my knowledge of data analysis.
 
